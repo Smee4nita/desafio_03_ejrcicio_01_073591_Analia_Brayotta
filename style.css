@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    background-color: white;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #a1c1cb;
+}
+
+h2 {
+    color: grey;
+}
+
+img {
+    margin-left: 3%;
+}
+
+#color-aspiradora {
+    color: white;
+}
+
+#borde-aspiradora {
+    border: 5px solid white;
+}
+
+body {
+    background-color: #202124;
+}
+
+p {
+    color: white;
+    font-family: Arial, Gadget, sans-serif;
+}
+
+#color-celular {
+    color: #a1c1cb;
+}
+
+#borde-celular {
+    border: 5px solid #a1c1cb;
+}
+
+.borde-imagenes {
+    border: 5px solid grey;
+}
+
+#color-home {
+    color: darkgrey;
+}
+
+#borde-home {
+    border: 5px solid darkgrey;
+}
